@@ -1,13 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola a todos! Soy Alejandro Casasola </h2>
-
-<!-- ## 👋 &nbsp;Hola a todos, Soy Alejandro Casasola -->
-
-### 👨🏻💻 &nbsp;Sobre Mi
-
-message.txt
-3 KB
-﻿
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola a todos! Soy Alejandro Casasola </h2>
+﻿<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola a todos! Soy Daniel Olmos </h2>
 
 <!-- ## 👋 &nbsp;Hola a todos, Soy Alejandro Casasola -->
 
@@ -49,12 +40,7 @@ message.txt
 ### 🤝🏻 &nbsp;Contactame por:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alejandro-casafer/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:alejandro.casafer@gmail.com">
+<a href="mailto:danielolmos1236@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </p>
-message.txt
-3 KB
