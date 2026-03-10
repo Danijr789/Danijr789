@@ -8,7 +8,7 @@
 🎓 He trabajado como **Full Stack Developer** en empresas como Zunder con herramientas como **Vue.js** y **Django**.  
 🌱 Estoy aprendiendo más sobre **Desarrollador Full Stack y UX/UI**.  
 ✍️ Actualmente estoy desarrollando proyectos con técnologias como **TypeScript** en **React** y estilos de **Tailwind**.  
-✉️ Puedes escribirme a **alejandro.casafer@gmail.com**, ¡responderé lo antes posible!
+✉️ Puedes escribirme a **danielolmos1236@gmail.com**, ¡responderé lo antes posible!
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350px"/>
